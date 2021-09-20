@@ -5,9 +5,14 @@ import './App.css';
 
 function App() {
   return (
-		<section>
+		<section className="content">
 			<TitleHeader />
 			<Email />
+			<Question />
+			<Question />
+			<Question />
+			<Question />
+			<Question />
 			<Question />
 		</section>
 	);
