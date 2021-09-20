@@ -1,3 +1,9 @@
 .card-header{
     background-color: black;
 }
+.card-text2 span {
+    color: blue;
+}
+.card-text3{
+    color: red;
+}

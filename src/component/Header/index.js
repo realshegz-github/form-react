@@ -12,6 +12,11 @@ function TitleHeader() {
 					</p>
 					<p class="card-text">you only get one vote make it count</p>
 					<hr />
+					<p class="card-text2">
+						<strong>shotbymustopha@gmail.com.</strong>{' '}
+						<span class="switch"> switch account</span>
+					</p>
+					<p class="card-text3">* Required</p>
 				</div>
 			</div>
 		);

@@ -6,14 +6,14 @@ import './App.css';
 function App() {
   return (
 		<section className="content">
-			<TitleHeader />
-			<Email />
-			<Question />
-			<Question />
-			<Question />
-			<Question />
-			<Question />
-			<Question />
+			<TitleHeader /><br/>
+			<Email /><br/>
+			<Question /><br/>
+			<Question /><br/>
+			<Question /><br/>
+			<Question /><br/>
+			<Question /><br/>
+			<Question /><br/>
 		</section>
 	);
   }
